@@ -13,9 +13,6 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/lawdiWG/lawdiWG/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
+
 ![](https://github-readme-stats.vercel.app/api?username=lawdiwg)
