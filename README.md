@@ -15,3 +15,5 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 
 ![](https://github-readme-stats.vercel.app/api?username=lawdiwg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
