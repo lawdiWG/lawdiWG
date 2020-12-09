@@ -1,4 +1,4 @@
-name: WakaTime
+name: Waka Readme
 
 on:
   workflow_dispatch:
