@@ -14,5 +14,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 -->
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 ![](https://github-readme-stats.vercel.app/api?username=lawdiwg)
