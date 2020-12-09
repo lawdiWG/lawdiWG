@@ -13,7 +13,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: lawdiwg/lawdiwg@master
+      - uses: lawdiWG/lawdiWG@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Updated the Readme
