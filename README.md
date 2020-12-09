@@ -20,3 +20,5 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<img src="https://github.com/lawdiwg/lawdiwg/blob/main/stat.svg" alt="My WakaTime Activity"/>
